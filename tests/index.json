@@ -1,0 +1,10 @@
+{
+    "list": [
+        {
+            "type": "launcher",
+            "title": "dvd-logo",
+            "file": "./file/dvd-logo.tar.gz",
+            "shots": "./shots/dvd-logo.png"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "list": [
+        {
+            "title": "test",
+            "file": "./test/index.json",
+            "type": "dir"
+        }
+    ]
+}

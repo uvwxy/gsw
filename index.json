@@ -1,8 +1,8 @@
 {
     "list": [
         {
-            "title": "test",
-            "file": "./test/index.json",
+            "title": "tests",
+            "file": "./tests/index.json",
             "type": "dir"
         }
     ]

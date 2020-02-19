@@ -2,7 +2,7 @@
     "list": [
         {
             "title": "tests",
-            "file": "./tests/index.json",
+            "file": "https://raw.githubusercontent.com/uvwxy/gsw/master/tests/index.json",
             "type": "dir"
         }
     ]

@@ -1,1 +1,10 @@
-{ "list": [{ "type": "launcher", "title": "dvd-logo", "file": "https://raw.githubusercontent.com/uvwxy/gsw/master/tests/dvd-logo/file/dvd-logo.tar.gz", "shots": "https://raw.githubusercontent.com/uvwxy/gsw/master/tests/dvd-logo/shots/dvd-logo.png" }] }
+{
+    "list": [
+        {
+            "type": "launcher",
+            "title": "dvd-logo",
+            "file": "https://raw.githubusercontent.com/uvwxy/gsw/master/tests/dvd-logo/file/dvd-logo.tar.gz",
+            "shots": "https://raw.githubusercontent.com/uvwxy/gsw/master/tests/dvd-logo/shots/dvd-logo.png"
+        }
+    ]
+}
